@@ -1,6 +1,6 @@
 # Projeto seguindo o vídeo (https://www.youtube.com/watch?v=SnxAq9ktyuo) do Guido Cerqueira
 
-cabei de concluir um empolgante projeto onde desenvolvi uma API REST em Node para um sistema acadêmico muito legal, seguindo o vídeo de referência (https://www.youtube.com/watch?v=SnxAq9ktyuo) do Guido Cerqueira.
+Acabei de concluir um empolgante projeto onde desenvolvi uma API REST em Node para um sistema acadêmico muito legal, seguindo o vídeo de referência (https://www.youtube.com/watch?v=SnxAq9ktyuo) do Guido Cerqueira.
 
 
 
