@@ -1,4 +1,4 @@
-# Projeto seguindo o vídeo (https://www.youtube.com/watch?v=SnxAq9ktyuo) do Guido Cerqueira
+# API REST Express
 
 Acabei de concluir um empolgante projeto onde desenvolvi uma API REST em Node para um sistema acadêmico muito legal, seguindo o vídeo de referência (https://www.youtube.com/watch?v=SnxAq9ktyuo) do Guido Cerqueira.
 
